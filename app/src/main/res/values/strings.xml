@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplo CRUD SQLite</string>
+    <string name="app_title">Ejemplo CRUD SQLite</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_agregar_usuario">Agregar Usuario</string>
+    <string name="tv_database">Base de Datos</string>
+    <string name="btn_mostrar_usuarios">Mostrar Usuarios</string>
+</resources>
